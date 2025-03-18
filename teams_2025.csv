@@ -1,0 +1,65 @@
+seed_line,ovr_seed,team,abbr
+1,1,Auburn,AUB
+1,2,Duke,DUKE
+1,3,Houston,HOU
+1,4,Florida,UF
+2,5,Tennessee,UT
+2,6,Alabama,ALA
+2,7,Michigan St.,MSU
+2,8,St. John's,SJU
+3,9,Texas Tech,TTU
+3,10,Iowa St.,ISU
+3,11,Kentucky,UK
+3,12,Wisconsin,WISC
+4,13,Texas A&M,TAMU
+4,14,Purdue,PUR
+4,15,Maryland,MD
+4,16,Arizona,ARIZ
+5,17,Michigan,UM
+5,18,Clemson,CLEM
+5,19,Oregon,ORE
+5,20,Memphis,MEM
+6,21,BYU,BYU
+6,22,Illinois,ILL
+6,23,Missouri,MIZ
+6,24,Ole Miss,MISS
+7,25,UCLA,UCLA
+7,26,Marquette,MARQ
+7,27,Saint Mary's,SM
+7,28,Kansas,KU
+8,29,Louisville,UL
+8,30,Gonzaga,GONZ
+8,31,UConn,UCONN
+8,32,Mississippi St.,MSST
+9,33,Creighton,CREI
+9,34,Georgia,UGA
+9,35,Baylor,BAY
+9,36,Oklahoma,OU
+10,37,Arkansas,ARK
+10,38,New Mexico,UNM
+10,39,Vanderbilt,VU
+10,40,Utah St.,USU
+11,41,FFMW11,FFMW11
+11,42,FFS11,FFS11
+11,43,Drake,DRAKE
+11,44,VCU,VCU
+12,45,UC San Diego,UCSD
+12,46,Colorado St.,CSU
+12,47,McNeese,MCN
+12,48,Liberty,LIB
+13,49,Yale,YALE
+13,50,High Point,HPU
+13,51,Akron,AKR
+13,52,Grand Canyon,GCU
+14,53,Lipscomb,LIP
+14,54,Troy,TROY
+14,55,UNCW,UNCW
+14,56,Montana,MONT
+15,57,Robert Morris,RMU
+15,58,Wofford,WOF
+15,59,Omaha,OMAHA
+15,60,Bryant,BRY
+16,61,Norfolk St.,NORF
+16,62,SIUE,SIUE
+16,63,FFE16,FFE16
+16,64,FFS16,FFS16
