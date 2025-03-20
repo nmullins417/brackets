@@ -39,8 +39,8 @@ seed_line,ovr_seed,team,abbr
 10,38,New Mexico,UNM
 10,39,Vanderbilt,VU
 10,40,Utah St.,USU
-11,41,FFMW11,FFMW11
-11,42,FFS11,FFS11
+11,41,First Four Midwest 11-seed,FFMW11
+11,42,First Four South 11-seed,FFS11
 11,43,Drake,DRAKE
 11,44,VCU,VCU
 12,45,UC San Diego,UCSD
@@ -61,5 +61,5 @@ seed_line,ovr_seed,team,abbr
 15,60,Bryant,BRY
 16,61,Norfolk St.,NORF
 16,62,SIUE,SIUE
-16,63,FFE16,FFE16
-16,64,FFS16,FFS16
+16,63,First Four East 16-seed,FFE16
+16,64,First Four South 16-seed,FFS16
